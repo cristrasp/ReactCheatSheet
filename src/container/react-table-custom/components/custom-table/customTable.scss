@@ -1,0 +1,46 @@
+table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table td,
+table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+table tr:hover {
+  background-color: #ddd;
+}
+
+table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: rgb(31, 113, 236);
+  color: white;
+}
+
+.width-300 {
+  width: 300px;
+}
+
+.btnStyle {
+  width: 150px;
+  margin: 20px;
+}
+
+.btnFooter {
+  text-align: center;
+  padding-top: "12px";
+}
+
+.sortStyle {
+  cursor: pointer;
+  display: flex;
+}
