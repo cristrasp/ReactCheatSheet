@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name": "Cristian",
+        "status": "on"
+    },
+    {
+        "id": 2,
+        "name": "Ronaldo",
+        "status": "off"
+
+    },
+    {
+        "id": 3,
+        "name": "Leao",
+        "status": "on"
+
+    },
+    {
+        "id": 4,
+        "name": "Brozo",
+        "status": "off"
+
+    },
+    {
+        "id": 5,
+        "name": "Lautaro",
+        "status": "off"
+
+    },
+    {
+        "id": 6,
+        "name": "Theo",
+        "status": "on"
+
+    },{
+        "id": 7,
+        "name": "Handa",
+        "status": "off"
+
+    },
+    {
+        "id": 8,
+        "name": "Calabria",
+        "status": "on"
+
+    },
+    {
+        "id": 9,
+        "name": "Kjaer",
+        "status": "on"
+
+    }
+]

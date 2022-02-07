@@ -1,0 +1,133 @@
+[
+    {
+    "id": 1,
+    "make": "Nissan",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Nissan_Ariya%2C_left_front%2C_Nissan_Gallery_HQ%2C_2021.jpg",
+    "type": "New",
+    "models": [
+      {
+        "model": "Micra",
+        "price": "16000 - 21000",
+        "dateAvailability": "2022-12-17T03:24:00"
+      },
+      {
+        "model": "Qashqai",
+        "price": "26000 - 40000",
+        "dateAvailability": ""
+      },
+      {
+        "model": "Aria",
+        "price": "50000 - 6000",
+        "dateAvailability": "2022-12-17T03:24:00"
+      },
+      {
+        "model": "Juke",
+        "price": "21000 - 28000",
+        "dateAvailability": "2022-12-17T03:24:00"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "make": "Opel",
+    "image": "https://www.gruppofarina.com/media/3189/opel-nuova-corsadesign-grintoso.png",
+    "type": "New",
+    "models": [
+      {
+        "model": "Corsa",
+        "price": "16000 - 21000",
+        "dateAvailability": "2022-12-17T03:24:00"
+      },
+      {
+        "model": "CrossLand",
+        "price": "26000 - 40000",
+        "dateAvailability": ""
+      },
+      {
+        "model": "Astra",
+        "price": "24000 - 30000",
+        "dateAvailability": "2022-12-17T03:24:00"
+      },
+      {
+        "model": "Grandland",
+        "price": "40000 - 45000",
+        "dateAvailability": "2022-12-17T03:24:00"
+      }
+    ]
+    
+  },
+  {
+    "id": 3,
+    "make": "Audi",
+    "image": "https://wheels.iconmagazine.it/content/uploads/2019/11/Audi-A4-936x703.jpg",
+    "type": "New",
+    "models": [
+      {
+        "model": "e-tron",
+        "price": "109000 - 153000",
+        "dateAvailability": "2022-12-17T03:24:00"
+      },
+      {
+        "model": "Q5",
+        "price": "50000 - 70000",
+        "dateAvailability": ""
+      },
+      {
+        "model": "A1",
+        "price": "24000 - 30000",
+        "dateAvailability": "2022-12-17T03:24:00"
+      },
+      {
+        "model": "Q3",
+        "price": "40000 - 60000",
+        "dateAvailability": "2022-12-17T03:24:00"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "make": "Ferrari",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/F40_Ferrari_20090509.jpg/800px-F40_Ferrari_20090509.jpg",
+    "type": "Old",
+    "models": [
+      {
+        "model": "Roma",
+        "price": "204000 - 205000",
+        "dateAvailability": "2022-12-17T03:24:00"
+      },
+      {
+        "model": "F8",
+        "price": "230000 - 240000",
+        "dateAvailability": ""
+      },
+      {
+        "model": "Spider",
+        "price": "230000 - 260000",
+        "dateAvailability": "2022-12-17T03:24:00"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "make": "VW",
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/driving-classic-vw-lead-1597355901.jpg",
+    "type": "Old",
+    "models": [
+      {
+        "model": "Taigo",
+        "price": "20400 - 29000",
+        "dateAvailability": "2022-12-17T03:24:00"
+      },
+      {
+        "model": "Polo",
+        "price": "19000 - 24000",
+        "dateAvailability": ""
+      },
+      {
+        "model": "T-Roc",
+        "price": "33000 - 40000",
+        "dateAvailability": "2022-12-17T03:24:00"
+      }
+    ]
+  }
+]
